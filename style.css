@@ -108,7 +108,7 @@ html {
  box-shadow: 0.1rem 0.1rem 0.1rem #000, -0.1rem -0.1rem 0.1rem #000;
  cursor: pointer;
  z-index: 100;
- transition: top 0.4s ease 0.2s;
+ transition: top 0.4s 0.075s;
 }
 
 .menu.change {
